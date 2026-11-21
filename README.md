@@ -9,7 +9,7 @@ hypotheses, tools, dead ends and how each finding was verified.
 
 | # | Case | Skills | Date |
 |---|------|--------|------|
-| 1 | [Example: Geolocating a street photo](cases/example-case/README.md) | geolocation, shadow analysis | 2026-11 |
+| 1 | [Example: Geolocating a street photo](cases/example-case/) | geolocation, shadow analysis | 2026-11 |
 
 <!-- Add a new row for each case. Put the best 3–5 at the top. -->
 
