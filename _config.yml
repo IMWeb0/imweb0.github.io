@@ -1,0 +1,16 @@
+title: imweb0 — OSINT Case Studies
+description: Step-by-step OSINT investigations — geolocation, verification, infrastructure analysis. Personal data of private individuals is masked.
+url: https://imweb0.github.io
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+relative_links:
+  enabled: true
+  collections: false
