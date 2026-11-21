@@ -26,13 +26,13 @@ Clues you noticed and what each one *might* mean.
 
 ## Investigation
 
-### Step 1 — <technique>
+### Step 1 — technique
 
 What you did, which tool, why.
 
 ![Step 1 screenshot](images/step1.png)
 
-### Step 2 — <technique>
+### Step 2 — technique
 
 …
 
@@ -53,4 +53,5 @@ How you confirmed the answer with at least two independent signals.
 ## Lessons learned
 
 -
+
 [← Back to all cases](../../)
