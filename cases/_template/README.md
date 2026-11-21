@@ -54,5 +54,3 @@ How you confirmed the answer with at least two independent signals.
 
 -
 [← Back to all cases](../../)
-
-[← Back to all cases](../../README.md)
